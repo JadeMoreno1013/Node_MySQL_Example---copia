@@ -18,6 +18,7 @@ SELECT FROM song;
 SELECT name, artist FROM song;
 SELECT name AS Nombre, artist AS Canción FROM song;
 SELECT artist FROM song;
+select artist from song order by artist desc;
 
 SELECT DISTINCT(artist) FROM song;
 
