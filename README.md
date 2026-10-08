@@ -12,6 +12,7 @@ Consultas en SQL = https://youtu.be/TFQzm8DIJ_w?si=SUkDzvMsBc8RLYjy
 
 
 EJEMPLO CONSULTAS SPOTIFY
+
 -- Busquedas con respecto a columnas
 SELECT FROM song;
 SELECT name, artist FROM song;
